@@ -18,4 +18,5 @@ var app = http.createServer(function(request,response){
     
  
 });
-app.listen(3000);
+app.listen(3000); //localhost:3000 에 접속하면 값이 나온다
+
